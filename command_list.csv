@@ -1,0 +1,165 @@
+    1  echo -n > main_test.txt
+    2  git add
+    3  git commit
+    4  git echo -n > main_test.txt
+    5  echo -n > main_test.txt
+    6  git add
+    7  git commit
+    8  git checkout
+    9  git checkout -b developer
+   10  cd HW_10
+   11  echo -n > main_test.txt
+   12  git add
+   13  git commit
+   14  git checkout -b developer
+   15  echo -n > develop_test.txt
+   16  git commit
+   17  git notepad develop_test.txt " just a small change"
+   18  notepad develop_test.txt " just a small change"
+   19  git status
+   20  git commit
+   21  cd main
+   22  cd
+   23  git checkout main
+   24  git dir
+   25  dir
+   26  git log
+   27  git checkout -b main
+   28  git marge develop and main
+   29  clone https://github.com/Viktoriia0411/HW_10.git
+   30  cd HW_10
+   31  userPC@DESKTOP-PSQEJ1R MINGW64 ~
+   32  $ clone https://github.com/Viktoriia0411/HW_10.git
+   33  bash: clone: command not found
+   34  userPC@DESKTOP-PSQEJ1R MINGW64 ~
+   35  $ cd HW_10
+   36  userPC@DESKTOP-PSQEJ1R MINGW64 ~/HW_10 (developer)
+   37  $
+   38  git touch text_ignore.txt 
+   39  touch  text_ignore.txt
+   40  ls
+   41  cd
+   42  pwd
+   43  cd //
+   44  cd ..
+   45  ls
+   46  ls
+   47  touch text_ignore.txt
+   48  ls
+   49  touch .gitignore text_ignore.txt 
+   50  git status
+   51  git add
+   52   touch .gitignore
+   53  git status
+   54  type nul > main_test.txt
+   55  git add
+   56  cd HW_10
+   57  touch text_ignore.txt
+   58  touch .gitignore
+   59  git status
+   60  git add
+   61  mkdir develop
+   62  mkdir develop
+   63  cd delelop
+   64  type nul > develop_test.txt
+   65  git add
+   66  commit
+   67  git commit
+   68  nano develop_test.txt file
+   69  touch develop_test.txt
+   70  git add
+   71  commit
+   72  git commit
+   73  nano develop_test.txt file
+   74  git status
+   75  git add
+   76  clone HW_10
+   77  git clone HW_10
+   78  git clone https://github.com/Viktoriia0411/HW_10.git
+   79  clone https://github.com/Viktoriia0411/HW_10.git
+   80  git clone https://github.com/Viktoriia0411/HW_10.git
+   81  cd HW_10
+   82  touch text_ignore.txt
+   83  nano .gitignore text_ignore.txt
+   84  git status
+   85  git add
+   86  git commit
+   87  type nul main_test.txt
+   88  type nul > main_test.txt
+   89  git add
+   90  echo -n > main_test.txt
+   91  git add
+   92  git commit
+   93  git checkout -b develop
+   94  echo -n > develop_test.txt
+   95  git add
+   96  git commit
+   97  notepad develop_test.txt file
+   98  cd/c/Users/userPC/OneDrive/'Робочий стіл'/GIT
+   99  git clone https://github.com/Viktoriia0411/HW_10.git
+  100  clone https://github.com/Viktoriia0411/HW_10.git
+  101  cd HW_10
+  102  touch text_ignore.txt
+  103  cd /c/Users/userPC/OneDrive/'Робочий стіл'/GIT
+  104  git clone https://github.com/Viktoriia0411/HW_10.git
+  105  cd HW_10
+  106  touch text_ignore.txt
+  107  touch .gitignore text_ignore.txt
+  108  git status
+  109  git add
+  110  git commit
+  111  echo -n > main_test.txt
+  112  git add
+  113  git commit
+  114  git checkout -b develop
+  115  echo -n > develop_test.txt
+  116  git add
+  117  git commit
+  118  nano develop_test.txt
+  119  git status
+  120  git add
+  121  git commit
+  122  git chekout main
+  123  git checkout main
+  124  git merge develop 
+  125  git log
+  126  history > command_list.csv
+  127  git add
+  128  git commit
+  129  git push
+  130  git push
+  131  git push
+  132  git push
+  133  git push
+  134  git push
+  135  git push
+  136  history > command_list.csv
+  137  git add
+  138  git commit
+  139  git push
+  140  git push
+  141  history > command_list.csv
+  142  git add
+  143  git commit
+  144  git push
+  145  cd HW_10
+  146  touch text_ignore.txt
+  147  touch .gitignore text_ignore.txt
+  148  git status
+  149  git add
+  150  git commit
+  151  echo -n > main_test.txt
+  152  git add
+  153  git commit
+  154  git checkout -b develop
+  155  echo -n > develop_test.txt
+  156  git add
+  157  git commit
+  158  nano develop_test.txt
+  159  git status
+  160  git add
+  161  git commit
+  162  git checkout main
+  163  git merge develop
+  164  git log
+  165  history > command_list.csv
